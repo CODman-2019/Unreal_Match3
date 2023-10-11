@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\esamm\\Documents\\GitHub\\Unreal_Match3\\LC_CursedMatch\\Source\\LC_CursedMatch\\LC_CursedMatch.Build.cs",
+		"C:\\Users\\esamm\\Documents\\GitHub\\Unreal_Match3\\LC_CursedMatch\\Source\\LC_CursedMatch.Target.cs",
+		"C:\\Users\\esamm\\Documents\\GitHub\\Unreal_Match3\\LC_CursedMatch\\Source\\LC_CursedMatchEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}
